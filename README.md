@@ -1,11 +1,11 @@
 ![Alt text](https://pbs.twimg.com/media/GzQ5lOFWsAAC1mc?format=jpg&name=large)
 
-# Anoma Contribution Week2
+# Anoma X (formally Twitter) contributions
 # 1. Medium
 
 link to contributions 
 
-[https://medium.com/@iamgetti/gettys-contributions-b9f89b51a499]
+[[https://sites.google.com/view/apexcohort/contribution-page]
 
 # 2. ANOMA Simulated Decentralized Autonomous Service Marketplace
 
